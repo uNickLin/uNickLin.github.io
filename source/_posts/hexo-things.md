@@ -21,7 +21,7 @@ categories:
 
 ## 安裝 Next
 
-首先當然要先安裝 next 本人，到 hexo 資料夾下指令
+首先當然要先安裝 Next 本人，到 hexo 資料夾下指令
 ```
 $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 ```
