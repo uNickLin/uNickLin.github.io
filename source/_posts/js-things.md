@@ -1,5 +1,5 @@
 ---
-title: js-things
+title: Javascript 實用方法
 visible: true
 date: 2018-05-14 10:16:12
 tags: Javascript
