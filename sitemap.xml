@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/05/23/handmade-vue-project/</loc>
+    <loc>http://yoursite.com/2018/05/28/vue-doc/</loc>
     
-    <lastmod>2018-05-24T01:43:47.280Z</lastmod>
+    <lastmod>2018-05-28T03:53:45.783Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2018/05/19/vue-router-trick/</loc>
     
-    <lastmod>2018-05-19T13:43:16.578Z</lastmod>
+    <lastmod>2018-05-28T03:52:45.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/05/23/handmade-vue-project/</loc>
+    
+    <lastmod>2018-05-28T03:52:45.050Z</lastmod>
     
   </url>
   
