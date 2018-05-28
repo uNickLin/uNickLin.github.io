@@ -90,6 +90,53 @@ $ npm i -D pug pug-loader sass sass-loader node-sass
 
 這樣在 .vue 中的 pug 才能使用 emmet 語法
 
+***
+###### 2018/05/24 更新：
+
+剛剛看了一下 github 的追蹤發現雨溪他有新增一個 pug 的[編譯插件](https://github.com/yyx990803/pug-plain-loader)
+
+> This loader is mostly intended to be used alongside vue-loader v15+, since it now requires using webpack loaders to handle template preprocessors. There's also pug-html-loader which unfortunately is out-of-date and not actively maintained.
+
+看起來好像是跟 Vue 更好相容，而且可以在 .vue 中引入 .pug 的模組
+
+```shell
+$ npm install -D pug-plain-loader pug
+```
+
+rules 的部分也要修改 loader
+
+```javascript
+// webpack.base.conf.js
+
+{
+  test: /\.pug$/,
+  loader: 'pug-plain-loader'
+}
+```
+
+後面也有提到如果有插入 pug 模組的需求的話 rules 要修改成
+
+```javascript
+{
+  test: /\.pug$/,
+  oneOf: [
+    // this applies to pug imports inside JavaScript
+    {
+      exclude: /\.vue$/,
+      use: ['raw-loader', 'pug-plain-loader']
+    },
+    // this applies to <template lang="pug"> in Vue components
+    {
+      use: ['pug-plain-loader']
+    }
+  ]
+}
+```
+
+我自己是還沒試過這個 plugin 😅 因為目前用 pug-loader 還沒遇到什麼問題，如果有嘗試再分享 👋
+
+***
+
 ## webpack-simple
 
 跟 webpack 選項比起來要設定的東西就沒那麼多了，但 simple 有一點我認為比 webpack 好的是他會問你要不要安裝 sass 😭
