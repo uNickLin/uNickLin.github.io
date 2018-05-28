@@ -3,7 +3,7 @@ title: 手把手的 Vue-cli
 visible: true
 date: 2018-05-23 10:05:32
 tags: 
-- Vue
+- Vue 2.x
 - Webpack
 categories: 
 - Note

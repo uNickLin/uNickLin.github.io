@@ -3,7 +3,7 @@ title: 如何讓 Vue 記住「上一頁」的位置
 visible: true
 date: 2018-05-19 21:14:54
 tags: 
-- Vue
+- Vue 2.x
 categories:
 - Tricks
 ---
