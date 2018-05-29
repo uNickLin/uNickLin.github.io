@@ -177,6 +177,6 @@ export default{
 >2. 單文件組件 (.vue)
 >3. <script type="text/x-template"\>
 
-但我知道的方法除了第三點的 jsx，就是 template 跟 .vue file 了，所以 ... 也不知道他說會出錯是在哪種情況下😅
+我知道的方法除了第三點的 jsx，就是 template 跟 .vue file 了，所以 ... 也不知道他說會出錯是在哪種情況下😅
 
 <i>To Be Continued ...</i>
