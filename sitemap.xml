@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/05/29/vuex-in-vue-router/</loc>
+    
+    <lastmod>2018-05-29T07:10:39.847Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/05/28/vue-doc/</loc>
     
     <lastmod>2018-05-28T03:53:45.783Z</lastmod>
