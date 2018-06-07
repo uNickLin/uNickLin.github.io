@@ -48,3 +48,14 @@ Todo List 真要說起來也可以做得很大，還記得剛接觸框架時很�
 這次的作品還有很大一部份的重心是自己真正實作 Vuex，之前都是看影片教學哦哦哦地點頭，好像很懂但其實不然，套用 Vuex 後終於告別 components 間的 emit hell 😭，不然那一坨一坨的 emit 每次看每次懷疑人生 ...
 
 接下來就像 Todo 所寫的，要解決 Muuri.js 的套用，如果不行還是繼續使用 vue-draggable，然後<strong>解決 PWA 暫存問題！</strong>，順利的話說不定還可以離線使用，最後再來處理圖片上傳<small style='text-decoration: line-through; color: grey'>(如果有空, if, might, perhaps)</small>
+
+
+------
+
+2018/06/06 16:58
+
+後記很快就來了，經過一整天跟 PWA 在手機不能開的問題勾勾纏後，突然想到既然他是從 Safari 去加到桌面，應該還是靠 Safari 來瀏覽的吧? 於是接上 lightning 馬上開 devtool 來瞧一瞧，才發現他怎麼會完全沒錯誤(!?)而且只有上頭的 Navbar 正常顯示，其他 router 怎麼沒有 render 進來，奇怪這好像在哪裡看過 !! 真的是絞盡腦漿後柳暗花明，才想起以前曾經直接去打開 npm run build 後的 index.html，想說他應該會自己 run app.js 才對(並不會)，就是跟這個情況一模模一樣樣，回頭去看他為什麼會打開 index.html
+
+![](https://i.imgur.com/neKi2L1.png)
+
+嗯，又一個搞到自己的低級錯誤，改成 "/" 就沒事了。
