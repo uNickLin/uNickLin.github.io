@@ -4,11 +4,11 @@
 
 # Site
 title: uNick's Blog
-subtitle: 我們到處踩坑
-description: 學不完也寫不完
+subtitle: 前端誤連網
+description: 把坑踩平  仍須努力
 keywords: front-end, javascript, html, css, vue
 author: Nick
-language: zh-TW
+language: zh-tw
 timezone:
 
 # URL
