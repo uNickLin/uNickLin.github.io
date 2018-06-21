@@ -154,6 +154,8 @@ filteredData: state => {
 
 寫到這花了整整兩天的時間😓 超級累但成就滿點r！離截稿還有一段時間，就拿來套看看 google map 好了！原本想說這邊會耗上一段光陰，實際上比預期的還快，主要是拜[前人](https://medium.com/founders-factory/building-a-custom-google-map-component-with-vue-js-d1c01ddd0b0a)種的長青樹跟[官方文件](https://developers.google.com/maps/documentation/javascript/get-api-key)的福才能順利完成。
 
+[看看成品](http://vfilter.s3-website-ap-northeast-1.amazonaws.com/)
+
 ![](https://i.imgur.com/Q98HR4t.png)
 
 
