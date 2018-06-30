@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/06/20/sideproject-dashboard/</loc>
+    
+    <lastmod>2018-06-30T10:39:30.348Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/14/sideproject-filter/</loc>
     
     <lastmod>2018-06-21T13:46:26.428Z</lastmod>
@@ -58,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/05/10/hexo-things/</loc>
+    <loc>http://yoursite.com/2018/05/11/hello-world/</loc>
     
     <lastmod>2018-05-11T02:26:19.393Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/05/11/hello-world/</loc>
+    <loc>http://yoursite.com/2018/05/10/hexo-things/</loc>
     
     <lastmod>2018-05-11T02:26:19.393Z</lastmod>
     
