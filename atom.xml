@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-30T10:39:30.348Z</updated>
+  <updated>2018-07-08T05:28:18.847Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一歲「工程師」的歷程</title>
+    <link href="http://yoursite.com/2018/07/02/f2e-anniversary/"/>
+    <id>http://yoursite.com/2018/07/02/f2e-anniversary/</id>
+    <published>2018-07-02T12:16:54.000Z</published>
+    <updated>2018-07-08T05:28:18.847Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天(7/1)是我正式掛上「前端工程師」職銜的一週年，在 AC 期間就有被培養寫部落格的習慣，只是沒想到現在竟然還在寫(!?)，趁還在用 hexo 的時候來回顧自己在這一年的成長跟心得 ✍️</p><a id="more"></a><p>差不多在兩年前正好因為感到職涯渺渺而開始投入在未來好像會很有用的程式碼領域，當然另一方面也是覺得工業自動化只是遲早的問題，早點學一技之長才不會被工作綁著。於是就四處摸索包含 python, java, c 等以前大學討厭的東西都啃起來了(而且我還買了 python 的書現在應該發霉了 🤗)，偶然之下看到了 Hahow 的 <a href="https://hahow.in/courses/56189df9df7b3d0b005c6639/main" target="_blank" rel="noopener">動畫互動網頁程式入門 (HTML/CSS/JS)</a>，實不相瞞第一眼的感覺就是「哇這一次學三種語言感覺很吃力但應該會很厲害」，但我還是有先研究一下這東西叫前端之後才下手。<br><img src="https://www.techworm.net/wp-content/uploads/2017/10/CoM-The-Ultimate-Front-End-Development-Bundle-780x390.jpg" alt=""></p><p>「動畫互動」確實是我踏入網頁，也是前端他吸引我的初衷，抱著這一點微薄的知識在二月時踫上了 ALPHA Camp 第十三屆的甄試，光看到「全端工程師」就一個腦衝二月底辭職三月入學了，回想起來真的很衝動😅，因為它實在價格不斐，另外也要自備 Macbook … 大概是一個一口氣把積蓄跟人生都砍掉重練的概念 … 但沒有當初的熱血青年也不會有現在熱衷於宅 code 的我。當時只是想說既然網頁分前後端，要走前端應該有點後端知識會很加分吧，然而因為衝動加入，沒有聽事前說明會：後端大概佔了87% 😐 ，只能在課題之餘還是拿來練 CSS 讓畫面至少美觀一點，不然純後端真的很像小學用的 frontpage … 但在珍貴的 13% 中學到了更多的 CSS 運用、認識 Javascript 以及框架的基礎認識，而之前買的 動畫互動網頁程式入門 也剛好有帶到一點 Vue 開發，所以順勢的選擇的綠色陣營 🤘<br><img src="http://us.vuejs.org/_nuxt/img/vuesplash.3e416f3.png" alt=""></p><p>十週奮鬥結業後，又回到了初出社會的面試地獄 🤮，尤其這次是一個全新的領域，不像以前製造業一樣「學歷 ＝ 薪資」就算什麼都不會只要拿著一張畢業證書進去再學就好。要好好擬訂一番策略，就先挑了幾家要求不多的公司練習一下面試準備、大概會考什麼題目，面試資料當時記錄在 <a href="http://unicklin-blog.logdown.com/posts/1961314-halfway-decent-front-end-engineers-interview" target="_blank" rel="noopener">LOGDOWN</a>，總之最後在這了，不管怎樣先求工作資歷，一邊充電提升自己的價值，才能賺到更多 👉💵👈。一年了，我也想出去繞繞衡量一下自己身為工程師的市值如何，有哪些基本能力還不足的，說真的現在翻開求職網竟然也能學到很多沒看過的新東西！真正體會到「前端」是一個學無弗界的頭銜，一旦駐足就追不上時代 😦</p><p>言而總之，雖然是以「動畫互動」立志踏入前端的前端設計師，現在卻是一個離不開 Vue 框架的前端工程師，因為互動這方面我在職場上的體會 嗯… 不是很好，只能說視覺這種東西是很主觀的概念，每個人要的感覺不一樣，彼此感覺差太多的話做起來真的很痛苦(bittersweet?)，現在才會投身在框架中，但也因為這個經歷讓我知道框架處理資料的實用性，從使用者操作流程到第三方 API 介接，都是很受用的技能，「動畫互動」也許不在我的主要幹道上，卻依然可以在自己的 sideproject 重拾一下自己做小動畫的樂趣。</p><p>Cheers ! 為了網頁與薪水而奮鬥 🙌</p><p><img src="http://blog.debugme.eu/wp-content/uploads/2016/01/great-frontend.png" alt=""></p><font style="font-size: 8px">P.S.<br>修煉前端第三週純切版因為平時切到麻木了就先 skip<br>修煉前端第四週出去玩也是一個 skip 😅</font>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天(7/1)是我正式掛上「前端工程師」職銜的一週年，在 AC 期間就有被培養寫部落格的習慣，只是沒想到現在竟然還在寫(!?)，趁還在用 hexo 的時候來回顧自己在這一年的成長跟心得 ✍️&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Note" scheme="http://yoursite.com/categories/Note/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>修煉前端 Week 3 - Dashboard</title>
