@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/08/10/setup-vps-dns/</loc>
+    <loc>http://yoursite.com/2018/08/11/setup-vps-dns-3/</loc>
     
-    <lastmod>2018-08-10T15:12:22.245Z</lastmod>
+    <lastmod>2018-08-11T16:32:52.621Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/08/11/setup-vps-dns-2/</loc>
+    
+    <lastmod>2018-08-11T15:15:26.062Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/08/10/setup-vps-dns-1/</loc>
+    
+    <lastmod>2018-08-11T11:54:31.478Z</lastmod>
     
   </url>
   
@@ -86,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/05/11/hello-world/</loc>
-    
-    <lastmod>2018-05-11T02:26:19.393Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2018/05/10/hexo-things/</loc>
     
     <lastmod>2018-05-11T02:26:19.393Z</lastmod>
@@ -107,7 +114,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://yoursite.com/2018/05/11/hello-world/</loc>
     
     <lastmod>2018-05-11T02:26:19.393Z</lastmod>
     
@@ -115,6 +122,13 @@
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-05-11T02:26:19.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2018-05-11T02:26:19.393Z</lastmod>
     
