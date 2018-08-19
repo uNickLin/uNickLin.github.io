@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-13T12:18:02.648Z</updated>
+  <updated>2018-08-19T08:37:59.985Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>半路出家的前端工程師面試 - 揪竟什麼是 Senior ?</title>
+    <link href="http://yoursite.com/2018/08/19/f2e-interview/"/>
+    <id>http://yoursite.com/2018/08/19/f2e-interview/</id>
+    <published>2018-08-19T06:20:37.000Z</published>
+    <updated>2018-08-19T08:37:59.985Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://az505806.vo.msecnd.net/cms/7df5abd1-eac0-49da-86a2-424f44ea95e7/a200a1f9-23c0-4c67-b74b-9bbc2ebd5b06-lg.jpg" alt=""><br>擔任前端工程師一年多，吸收了日月精華後，為了回顧這一年的經驗值成長，我本來就預計要來個巡迴面試讓市場估一下現在自己的身價如何，來看看是不是當一個網路工程師就一定要有「本科出身」的天命才能勝任，於是最近就默默開始莫名的請假 … ⁉️</p><a id="more"></a><p>去年轉職的面試心得是寫在 <a href="http://unicklin-blog.logdown.com/posts/1961314-halfway-decent-front-end-engineers-interview" target="_blank" rel="noopener">Logdown</a>，當時面試了大概十家左右，抱著初出茅廬的羔羊姿態到處被洗臉，原本在製造業的我也見識到資訊領域的面試是什麼型態。</p><p>而今年在心態上我就有很大的變化，因為目的不是以就職為主 (當然有遇到兩情相悅的還是可以給彼此一個機會💘)，比較著重在想知道所謂普遍 Senior 的程度和定義為何，可能也仗著現在本身就有工作所以面試時會大膽一點的討論😅</p><p>首先先介紹自己的能力 (以求職網上常見的需求列出)：<br><img src="https://obs.line-scdn.net/0hraG3jkDCLU56SgOHpAJSGTUXKyEDKTdGEDI6dA8cJ2APJjpOEjA-eAMSMDoSJDUEBCRhKyw8cCInAQ9uQVE_SwEtFwsMH2x6EEwwbT0SBi1Lem8RQCVmK11Ke35fL2kYRy9kbV5OJy4AKmtP/small" alt=""></p><ul><li>HTML5, CSS3</li><li>RWD</li><li>前端任一框架: Vue</li><li>熟悉 ES6</li><li>build system: gulp, webpack</li><li>解決跨瀏覽器問題</li><li>串接 api 經驗</li><li>熟悉 git 版控</li></ul><p>再來是我個人覺得可以寫上去的一些經驗</p><ul><li>自己玩過前端測試：e2e - cypress, unit - jest</li><li>PWA 作品</li><li>有後端經驗(Ruby on Rails)</li></ul><h2 id="FunNow"><a href="#FunNow" class="headerlink" title="FunNow"></a><a href="https://www.myfunnow.com/" target="_blank" rel="noopener">FunNow</a></h2><p>新創公司，產品定位有點像 EZtable 但功能更強大預約 app，服務的層面很廣，從飲食到住宿甚至球賽都有，因為剛獲創投資金正在廣納人才。面試當天先寫了一份忘了是性向測驗還是智力測驗的題目，就是很多形狀或圖形要判斷空格內應該填入哪個圖形的考題，總共 15 題只寫了 11 題瞬間覺得原來我智能不足 … 技術部份倒是沒有考試，面試的前端說太忙了沒時間出，之後如果錄取可能要先 full-stack 等人手補足才會好好的整頓一下負責工作，他們後端目前是用 php 但預計轉向 golang。面談期間其實蠻輕鬆的，大概 demo 一下作品跟自己的部落格、網站，然後聊聊前端在公司內的定位(因為主要產品是 app)，也有提到說不是資訊科不懂一些 CS 可能會比較辛苦等等。最後突然拋出説不然來考一下試好了 !?(馬上荒髒😱)，一題是從陣列隨機拋三個不重複的數出來，第二個是去年的夢靨：費氏數列(真的很費事)，這部分就跟他帶過一下自己有寫過但真的不熟 … 總之，人手看起來是很缺，但也因為產品要衝刺我覺得新人也會慎選不會太隨便，所以不是很有把握。</p><h2 id="Stockfeel-股感"><a href="#Stockfeel-股感" class="headerlink" title="Stockfeel 股感"></a><a href="https://www.stockfeel.com.tw/" target="_blank" rel="noopener">Stockfeel 股感</a></h2><p>這間是在數字網看到的，展示的工作環境看起來很不錯就投了，後來才知道公司已經搬家，現在完全不一樣 … (詐騙)。同時面試一個人資兩個前端，大概展示一下作品然後自我介紹之後那個人資就批哩啪拉的一直講他們公司在幹嘛做什麼的，也不管人家受不受得了，我大概第三句的斷線了😐，但其實斷線的主要原因是聽到要跟各大金融業合作，眾所皆知金融業系統老舊還有那個人見人怕的 Internet Explorer，興致垂直驟減 (現任公司要支援挨伊就很讓人暴走了還跟你在那邊倒退走 …)。總結這家就是當練習，但應該不需要 Senior 太多的特質，如果去年來的話搭個作品就可以上班了的感覺。</p><h2 id="inline-樂排"><a href="#inline-樂排" class="headerlink" title="inline 樂排"></a><a href="https://inline.company/" target="_blank" rel="noopener">inline 樂排</a></h2><p>這家算是我排期待的一間公司，因為他有 升 降 桌 ，一個非常吸引人的特點啊！產品跟 FunNow 一樣主要定位在 app 上，兩者有點像上下游的關係，inline 主要幫餐飲業簡化定位及帶位流程，進一步減少客戶等待時間。第一次面試對方用 phone interview 所以沒有進到公司了解環境的機會，前端未來也會需要在網頁上跟 app 同步功能，讓中小型的店家不需要 ipad 也可以方便使用，面談後對方會給回家功課來評估是不是要進一步二面(但過了兩天我還沒收到題目😐)，就靜待後續吧。</p><h2 id="東南旅行社"><a href="#東南旅行社" class="headerlink" title="東南旅行社"></a><a href="https://www.settour.com.tw/" target="_blank" rel="noopener">東南旅行社</a></h2><p>目前為止這家最令我進退兩難，進的點是團隊很大，而且設計部門有程式底，自己會切版，不會天馬行空的想一堆跟作業時間成反比的東西 … 要就自己切！除了維護旅行社官網(React)以外，基本上有活動頁面都是可以自由發揮的(不限定 React)，也有保障年薪 13 個月、專案獎金、旅遊補助等等，福利面不錯，而且工程部使用 git flow 開發，聽起來是有很嚴謹的作業團隊；而退的點是，辦公室空間很小很矮 … 沒錯很矮，大概我手向上伸直就快把天花板打掉了，整個空間壓力很大，而且人多平面空間也壅擠，再來是有硬性服裝規定：襯衫、西裝褲、皮鞋，這樣導致上班的心情就很差，不想每天自己忍受這樣的環境，我應該大概是不會想來這裡吧。</p><p>目前一週內面試了四家，很巧妙的一天排兩個只用掉兩個下午的假✌️，但其實礙於現在的專案進度會審慎安排接下來的面試時間，如果風調雨順的話我的優先順序應該會是</p><p>inline &gt; FunNow &gt; else …</p><p>再來有關所謂 Senior 的資格，面試期間大家都是從專案作品上了解，實際有參與網站製作的經驗其實應該就符合大多數公司的門檻了，除了 FunNow 有談到關於 CS 的東西之外其他都還算順遂，也可能只是還沒遇到非常嚴格的面試考試，如果真的考應該會直接慢走不送吧，因為我自己覺得自學的缺點是對於程式基底的知識非常貧缺，像問什麼 stack 啊 queue 啊、prototype 會不會、MVC 架構、OOP 概念等等，我也許會用，也許有用過，但我真的不知道他的理論跟名字 … 面試完 FunNow 後我也對 golang 起了一點興趣，目前有時間就會研究一下用它來寫寫看後端 server，雖說前後 js 一家親是很好，可是現在 Nodejs 連爸爸都不要他了 😦</p><p>待續 …</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://az505806.vo.msecnd.net/cms/7df5abd1-eac0-49da-86a2-424f44ea95e7/a200a1f9-23c0-4c67-b74b-9bbc2ebd5b06-lg.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;擔任前端工程師一年多，吸收了日月精華後，為了回顧這一年的經驗值成長，我本來就預計要來個巡迴面試讓市場估一下現在自己的身價如何，來看看是不是當一個網路工程師就一定要有「本科出身」的天命才能勝任，於是最近就默默開始莫名的請假 … ⁉️&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Note" scheme="http://yoursite.com/categories/Note/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>用 Vultr + Gandi 註冊網站（三）</title>
